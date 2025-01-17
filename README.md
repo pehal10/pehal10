@@ -7,7 +7,7 @@ I’m a student at the University of Texas at Dallas (UTD), pursuing a BS in Com
 ✨ Fun fact: I'm currently serving as the Public Relations Chair for the Society of Women Engineers at UTD which has allowed me to find a supportive community and lead impactful initiatives in outreach and professional development.
 
 ### 🎯 Featured Project: Bias Detection in Frontier AI Models
-Relativity Machine Learning Challenge Project (Break Through Tech AI Program): Check out my project repository for the real-world ML project my team and I worked on for Relativity for over 3 months, as part of the Break Through Tech AI Program! 
+Relativity Machine Learning Challenge Project (Break Through Tech AI Program): Check out my project repository for the real-world ML project my team and I worked on for Relativity for over 3 month! 
 
 See the full project here: [Bias Evaluation in Gemini Model](https://github.com/pehal10/relativity-bias-evaluation-in-gemini-model)
 
