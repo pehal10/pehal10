@@ -12,9 +12,9 @@ Relativity Machine Learning Challenge Project (Break Through Tech AI Program): C
 See the full project here: [Bias Evaluation in Gemini Model](https://github.com/pehal10/relativity-bias-evaluation-in-gemini-model)
 
 ### 💻 Tech Stack:
-- Programming Languages: Python, Java, C++, HTML, CSS, JavaScript 
+- Programming Languages: Python, Java, C++, HTML, CSS, JavaScript, R
 - Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib,, React.js (basic), React Native (basic)
-- Databases: SQL 
+- Databases: MySQL 
 - Development Tools: Jupyter Notebooks, Google Colab, Android Studio, 
 - Version Control: Git, GitHub
 
